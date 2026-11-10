@@ -2,7 +2,7 @@
 
 一款运行在 macOS 上的账号密码管理软件，采用 Apple 简约风格、蓝白配色、黑色字体，自带内置加密数据库，所有敏感字段均以密文形式本地存储，不上传任何服务器。
 
-作者 ID：**@//johnjhzhang/**
+作者 ID：**©️JohnJHZhang**
 
 ---
 
@@ -100,7 +100,9 @@ SecurePass/
 
 ---
 
-© 2026 SecurePass · 作者 @//johnjhzhang/
+© 2026 SecurePass  ·  作者： ©️JohnJHZhang
+
+版本号：v2.0.0
 
 
 
